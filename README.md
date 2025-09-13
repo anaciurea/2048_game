@@ -3,7 +3,7 @@ CIUREA ANA-SORINA
 # 2048
 README:
 
-The main idea of the project was to learn how to create the 2048 game using ncurses. I worked around 30 hours and learning how to use this library was probably the most difficult part. I did all the tasks that were mandatory.,br>
+The main idea of the project was to learn how to create the 2048 game using ncurses. I worked around 30 hours and learning how to use this library was probably the most difficult part. I did all the tasks that were mandatory.<br>
 -I created different windows to implement the tasks that were asked ( for example a window for the 'initial_menu' or for 'data_menu');<br>
 -I initialise the game board with 0 in function 'init_board' and in function 'count_empty_cells' I counted the cells where I can generate a random number;<br>
 -Using 'start colour', I coloured the menu when going through it with the 'KEY_UP' or 'KEY-DOWN';<br>
